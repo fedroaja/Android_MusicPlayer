@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">UTS2020_MOBILE-CL_00000021661_Fedro_Musique</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="alertjudul">Selamat Datang</string>
+    <string name="alertisi">Fedro\n00000021661</string>
+    <string name="ok">OK</string>
+    <string name="musique">Musique</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_menu_utama">MenuUtama</string>
+    <string name="myprofile">My Profile</string>
+    <string name="asc">Sort Ascending</string>
+    <string name="dsc">Sort Descending</string>
+    <string name="search">Search. . .</string>
+    <string name="logout">Log Out</string>
+    <string name="nama">Nama</string>
+    <string name="isiname">Fedro</string>
+    <string name="nim">Nim</string>
+    <string name="isinim">00000021661</string>
+    <string name="kelas">Kelas</string>
+    <string name="isikelas">CL</string>
+    <string name="referensi">Referensi :</string>
+    <string name="ref1">https://stackoverflow.com/questions/16715003/simple-mediaplayer-play-mp3-from-file-path</string>
+    <string name="ref2">https://www.youtube.com/watch?v=zCYQBIcePaw</string>
+    <string name="ref3">https://stackoverflow.com/questions/14663725/list-view-filter-android</string>
+    <string name="ref4">https://stackoverflow.com/questions/13568798/list-all-music-in-mediastore-with-the-paths</string>
+    <string name="ref5">https://stackoverflow.com/questions/7631467/adding-menu-in-action-bar</string>
+</resources>

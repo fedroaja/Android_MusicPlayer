@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/profile"
+        android:orderInCategory="100"
+        android:title="@string/myprofile"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/asc"
+        android:orderInCategory="100"
+        android:title="@string/asc"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/dsc"
+        android:orderInCategory="100"
+        android:title="@string/dsc"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/logout"
+        android:orderInCategory="100"
+        android:title="@string/logout"
+        app:showAsAction="never" />
+</menu>
